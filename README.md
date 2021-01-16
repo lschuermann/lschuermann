@@ -9,6 +9,6 @@ this platform to contributing to projects on GitHub, as well as where
 other services require it.
 
 To find some of my other projects (and development forks), visit
-[git.currently.online/~leons](https://git.currently.online/~leons).
+[git.currently.online/leons](https://git.currently.online/leons/).
 
 Have a nice day!
